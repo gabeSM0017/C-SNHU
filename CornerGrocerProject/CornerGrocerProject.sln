@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CornerGrocerProject", "CornerGrocerProject\CornerGrocerProject.vcxproj", "{CA32D9E8-999E-467D-AA09-93E14392BD93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Debug|x64.ActiveCfg = Debug|x64
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Debug|x64.Build.0 = Debug|x64
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Debug|x86.Build.0 = Debug|Win32
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Release|x64.ActiveCfg = Release|x64
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Release|x64.Build.0 = Release|x64
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Release|x86.ActiveCfg = Release|Win32
+		{CA32D9E8-999E-467D-AA09-93E14392BD93}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BD1BFA-EE93-480A-A668-BB1DD7D0F8BE}
+	EndGlobalSection
+EndGlobal
